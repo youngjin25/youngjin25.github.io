@@ -1,20 +1,21 @@
-name:               "Ink"
-description:        "A minimalistic jekyll theme for humans"
+name:               "Ohyoungjin blog"
+description:        "development/server/day-to-day"
 
 url:                ""
 author:             "thinker3197"
-email:              "jhondoe@abc.com"
+email:              "oyj950613@gmail.com"
 gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
 twitter:            "jhondoe"
-email:              "jhondoe@abc.com"
-github:             "jhondoe"
+email:              "oyj950613@gmail.com"
+github:             "youngjinblog"
 pinterest:          "jhondoe"
-linkedin:           "jhondoe"
-facebook:           "jhondoe"
+linkedin:           "false"
+facebook:           "fairy777kr"
 
-disqus_shortname:   "thinker3197"
+disqus_shortname:   "youngjinblog"
 
-background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
+background:         "![default](https://user-images.githubusercontent.com/46802319/51885887-d7ab2c80-23d0-11e9-8763-e9cdd9986266.jpg)
+"
 
 paginate:           5
 paginate_path:      "/page:num/"
