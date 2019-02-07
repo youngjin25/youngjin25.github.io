@@ -1,22 +1,22 @@
-name:               "Ohyoungjin blog"
-description:        "development/server/day-to-day"
+name:               "Ohyoungjin"
+description:        "development/server/day-to-day/hobby"
 
 url:                ""
 author:             "thinker3197"
 email:              "oyj950613@gmail.com"
 gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
-twitter:            "jhondoe"
+twitter:            ""
 email:              "oyj950613@gmail.com"
 github:             "youngjinblog"
-pinterest:          "jhondoe"
-linkedin:           "false"
-facebook:           "fairy777kr@naver.com"
+pinterest:          ""
+linkedin:           ""
+facebook:           "fairy777kr"
 
 disqus_shortname:   "youngjinblog"
 
 background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
 
-paginate:           5
+paginate:           3
 paginate_path:      "/page:num/"
 
 baseurl:            ""
