@@ -12,14 +12,6 @@ pinterest:          ""
 linkedin:           ""
 facebook:           "01037022720"
 
-<script src="https://utteranc.es/client.js"
-        repo="youngjin25/blog-comments"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-
 background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
 
 paginate:           3
