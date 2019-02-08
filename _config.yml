@@ -14,7 +14,7 @@ facebook:           "01037022720"
 
 background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
 
-paginate:           4
+paginate:           2
 paginate_path:      "/page:num/"
 
 baseurl:            ""
