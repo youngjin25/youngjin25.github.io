@@ -14,9 +14,7 @@ facebook:           "01037022720"
 
 <script src="https://utteranc.es/client.js"
         repo="youngjin25/blog-comments"
-        issue-term="[ENTER TERM HERE]"
-        theme="github-light"
-        crossorigin="anonymous"
+        issue-term="pathname"
         async>
 </script>
 disqus_shortname:   ""
